@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/cstappung/esp32/main/OTA.ino.esp32da.bin
+https://raw.githubusercontent.com/cstappung/esp32/main/SimpleExample.ino.bin
 2
 a2fbf5835de079474e820ceda2ca9986
 2.0
