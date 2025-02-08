@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/cstappung/esp32/main/OTA.ino.esp32da.bin
-2
+1
 a2fbf5835de079474e820ceda2ca9986
-1.0
+1.1
